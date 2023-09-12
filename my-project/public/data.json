@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "phoneName": "iPhone 13",
+      "phonePhoto": "https://images.pexels.com/photos/9667337/pexels-photo-9667337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "phonePrice": "$999.99"
+    },
+    {
+      "id": 2,
+      "phoneName": "Samsung Galaxy S21",
+      "phonePhoto": "https://images.pexels.com/photos/15479495/pexels-photo-15479495/free-photo-of-smartphone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "phonePrice": "$799.99"
+    },
+    {
+      "id": 3,
+      "phoneName": "Google Pixel 6",
+      "phonePhoto": "https://m-cdn.phonearena.com/images/review/5269-wide-two_1200/Google-Pixel-6-review-best-features.jpg",
+      "phonePrice": "$699.99"
+    },
+    {
+      "id": 4,
+      "phoneName": "OnePlus 9",
+      "phonePhoto": "https://www.cnet.com/a/img/resize/150f48d819ee3895d5b02b5db1e98be75fb91aac/hub/2021/03/23/1dc7a676-3401-4ad5-a28c-8b12fa6296d1/oneplus9.jpg?auto=webp&fit=cover&height=482&width=856",
+      "phonePrice": "$699.99"
+    },
+    {
+      "id": 5,
+      "phoneName": "Xiaomi Mi 11",
+      "phonePhoto": "https://www.androidauthority.com/wp-content/uploads/2021/02/Xiaomi-Mi-11-blue-and-pink-hues.jpg",
+      "phonePrice": "$599.99"
+    },
+    {
+      "id": 6,
+      "phoneName": "Sony Xperia 1 III",
+      "phonePhoto": "https://www.androidauthority.com/wp-content/uploads/2021/07/Sony-Xperia-1-III-hero.jpg",
+      "phonePrice": "$899.99"
+    },
+    {
+      "id": 7,
+      "phoneName": "LG V60 ThinQ",
+      "phonePhoto": "https://149367133.v2.pressablecdn.com/wp-content/uploads/2020/04/gadgetmatch-lg-v60-thinq-review-20200506-03.jpg",
+      "phonePrice": "$599.99"
+    },
+    {
+      "id": 8,
+      "phoneName": "Huawei P40 Pro",
+      "phonePhoto": "https://assets.hardwarezone.com/img/2020/04/P1010051.jpg",
+      "phonePrice": "$699.99"
+    },
+    {
+      "id": 9,
+      "phoneName": "Motorola Edge+",
+      "phonePhoto": "https://m-cdn.phonearena.com/images/review/5389-wide-two_1200/Motorola-Edge-2022-review-a-minor-update.jpg",
+      "phonePrice": "$799.99"
+    },
+    {
+      "id": 10,
+      "phoneName": "Oppo Find X3 Pro",
+      "phonePhoto": "https://www.digitaltrends.com/wp-content/uploads/2021/03/oppo-find-x3-pro-back-flat.jpg?p=1",
+      "phonePrice": "$799.99"
+    }
+  ]
+  
