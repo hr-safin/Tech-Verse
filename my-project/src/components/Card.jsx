@@ -1,10 +1,10 @@
 import { useState } from "react";
 
-const Card = ( {data, handleRemove} ) => {
+const Card = ( {data, handleRemove,theme,handleTheme} ) => {
     
     
   return (
-    <div className="card  bg-base-100 shadow-xl">
+    <div className={theme ? "card  bg-base-100 shadow-xl" : "card  bg-base-100  border border-gray-600 rounded-t-xl rounded-b-sm"}>
       <figure>
         <img
           className=" lg:h-[250px] w-full"
@@ -12,7 +12,7 @@ const Card = ( {data, handleRemove} ) => {
           alt={data.id}
         />
       </figure>
-      <div className="card-body">
+      <div className={theme ? "card-body" : "bg-[#0a192f] text-gray-400 card-body"}>
         <h2 className="card-title">{data.phoneName}</h2>
         <p>Price : {data.phonePrice}</p>
         <div className="card-actions justify-end">
